@@ -7,7 +7,8 @@ The app takes user input, processes the text, and predicts its category using a 
 ✅ Predicts text categories with **ML classification**  
 ✅ Uses **TF-IDF Vectorization** for feature extraction  
 ✅ **Streamlit UI** for easy interaction  
-✅ Supports **pre-trained models** via `pickle`  
+✅ Supports **pre-trained models** via `pickle module
+`  
 
 
 
